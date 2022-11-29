@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Custom website using html and css</title>
+    <link rel="stylesheet" href="new.css">
+</head>
+<body>
+    <div class="number">
+        <img class="panda" src="image.png">
+            </div>
+            <div class="center">
+                <h1>Namaste</h1>
+                <h2><i>Dont forget to smile</i></h2>
+                
+            </div>
+            <div class="buttons">
+                <button>join</button>
+                <button class="btn">sign up</button>
+                
+            </div>
+            
+            
+        </body>
+        </html>
+
+
